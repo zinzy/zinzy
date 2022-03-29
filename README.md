@@ -1,5 +1,5 @@
 # 👋 Heya pal, I'm @zinzy!
-I'm Zinzy Nev Geene, a design strategist and queer Catholic facilitator from Amsterdam. I like to tinker with web stuff.
+I'm Zinzy Waleson, a design & product manager from Amsterdam. I like to tinker with web stuff.
 
 <!---
 zinzy/zinzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
