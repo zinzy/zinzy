@@ -1,4 +1,4 @@
-# Heya pal, I'm @zinzy.
+# Heya pal, I'm Zinzy.
 
 I'm an IndieWeb enthusiast thinking aloud over on [zinzy.website](https://zinzy.website). I lead UX at [Leeruniek](https://leeruniek.nl), and I build resonant queer spaces.
 
