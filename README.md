@@ -1,8 +1,7 @@
-# Hey internet friend, I'm Zinzy (she/they) 👋🏽
-
-I'm currently a Senior UX Researcher and Designer at Geriedica, living and working in Amsterdam. I'm a fanboi for the [IndieWeb](https://indieweb.org/), and enjoy tinkering on independent web publishing in my spare time. I use my personal website [zinzy.website](https://zinzy.website) as a method of sharing parts of myself, my hobbies, and my work for public use. 
-
-I like to learn by solving my own problems, especially when they exist on the Internet. As a general word of advice with regards to everything you'll find in my Github: **here be dragons, henny**. This space contains all sorts of poorly-written, honky tonk, hot fixes.
+- I'm specialized in [making tools for people at work](https://www.zinzy.website/work/)
+- I'm a part of the IndieWeb corner of the Internet
+- I enjoy meeting fellow product people, so [add me on LinkedIn](https://www.linkedin.com/in/zinzy/) if you like
+- I like to learn by solving my own problems. As a general word of advice with regards to everything you'll find in my Github: **here be dragons, henny**. This space contains an assortment of poorly-written, honky tonk, hot fixes.
 
 <!---
 zinzy/zinzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
